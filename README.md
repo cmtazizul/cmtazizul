@@ -1,11 +1,13 @@
 <h1 align="center">Hi <img src="https://github.com/cmtazizul/cmtazizul/blob/main/Wave.gif" height="55px" width="55px">, I'm MD Azizul Haque Hridoy</h1>
 <h3 align="center">¯\_(ツ)_/¯
 
-Programmer | Content Creator | Learner
+Programmer | Content Creator | Learner | Trainner
 
 ?></h3>
 
-- 🔭 I’m currently working on **Android Development**
+- 🔭 I’m currently working on **Jr Instractor of Suranjit Sengupta Polytechnic Institute (SGPI)**
+
+- 🌱 I’m currently Tranner ** IT **
 
 - 🌱 I’m currently learning **Java**
 
