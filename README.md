@@ -59,10 +59,10 @@ Programmer | Content Creator | Learner
 
 <p><img align="center" src="https://github-readme-stats.vercel.app/api?username=cmtazizul&show_icons=true&locale=en" alt="MD Azizul Haque Hridoy" /></p>
 
-[website]: https://
+[website]: https://github.com/cmtazizul
 [facebook]: https://facebook.com/cmtazizul
 [twitter]: https://twitter.com/cmtazizul
-[youtube]: https://youtube.com/
+[youtube]: https://www.youtube.com/channel/UCofSbOXmLjsOZsM7-r_mnTw
 [instagram]: https://instagram.com/cmtazizul/
 [linkedin]: https://linkedin.com/in/cmtazizul
 [telegram]: https://t.me/cmtazizul
