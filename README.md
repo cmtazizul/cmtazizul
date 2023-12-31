@@ -4,8 +4,9 @@
 Programmer | Content Creator | Learner | Trainner
 
 ?></h3>
-
-- 🔭 I’m currently working on **Jr Instractor of Suranjit Sengupta Polytechnic Institute (SGPI)**
+- 🔭 I’m currently working on **Junior Executive-IT of Mytv Bangladesh**
+- 
+- 🔭 Former working on **Jr Instractor of Suranjit Sengupta Polytechnic Institute (SGPI)**
 
 - 🌱 I’m currently Tranner ** IT **
 
@@ -62,9 +63,9 @@ Programmer | Content Creator | Learner | Trainner
 <p><img align="center" src="https://github-readme-stats.vercel.app/api?username=cmtazizul&show_icons=true&locale=en" alt="MD Azizul Haque Hridoy" /></p>
 
 [website]: https://github.com/cmtazizul
-[facebook]: https://facebook.com/cmtazizul
+[facebook]: https://facebook.com/cseazizul
 [twitter]: https://twitter.com/cmtazizul
-[youtube]: https://www.youtube.com/channel/UCofSbOXmLjsOZsM7-r_mnTw
+[youtube]: https://www.youtube.com/cmtazizul
 [instagram]: https://instagram.com/cmtazizul/
 [linkedin]: https://linkedin.com/in/cmtazizul
 [telegram]: https://t.me/cmtazizul
