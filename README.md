@@ -5,7 +5,7 @@ Programmer | Content Creator | Learner | Trainner
 
 ?></h3>
 - 🔭 I’m currently working on **Junior Executive-IT of Mytv Bangladesh**
-- 
+  
 - 🔭 Former working on **Jr Instractor of Suranjit Sengupta Polytechnic Institute (SGPI)**
 
 - 🌱 I’m currently Tranner ** IT **
