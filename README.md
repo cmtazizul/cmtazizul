@@ -22,7 +22,7 @@ Programmer | Content Creator | Learner | Trainner
 
 ### Connect with me:
 
-[<img align="left" alt="facebook.com/cmtazizul" width="22px" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" />][website]
+[<img align="left" alt="facebook.com/cseazizul" width="22px" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" />][website]
 [<img align="left" alt="MD Azizul Haque Hridoy | YouTube" width="22px" src="https://cdn-icons-png.flaticon.com/512/124/124010.png" />][facebook]
 [<img align="left" alt="MD Azizul Haque Hridoy | YouTube" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/youtube.svg" />][youtube]
 [<img align="left" alt="MD Azizul Haque Hridoy | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />][twitter]
@@ -48,11 +48,7 @@ Programmer | Content Creator | Learner | Trainner
 ![Illustrator](https://img.shields.io/badge/-Illustrator-05122A?style=flat&logo=adobe-illustrator)&nbsp;
 ![Photoshop](https://img.shields.io/badge/-Photoshop-05122A?style=flat&logo=adobe-photoshop)&nbsp;
 <br />
-### Profile Visitors 
-![visitor badge](https://visitor-badge.glitch.me/badge?page_id=cmtazizul.visitor-badge&left_color=blue&right_color=yellow)
-<br />
 
-[![Mahbub's github activity graph](https://activity-graph.herokuapp.com/graph?username=cmtazizul&bg_color=ffffff&color=777777&line=ff5200&point=1adbce&area=true&hide_border=true)](https://github.com/cmtazizul/github-readme-activity-graph)
 
 
 <h3 align="left">Languages and Tools:</h3>
